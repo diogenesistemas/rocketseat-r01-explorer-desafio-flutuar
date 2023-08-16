@@ -1,6 +1,8 @@
-body{
+body, footer{
   font-family: 'Open Sans', sans-serif;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 main{
@@ -62,7 +64,6 @@ footer a + a{
 }
 
 footer img{
-  position: absolute;
   width: 100%;
   bottom: 0px;
   left: 0px;
